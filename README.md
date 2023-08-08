@@ -5,7 +5,6 @@
 
 Publicando uma API simples utilizando Node/JavaScript usando o contêiner do Docker, tornando acessível ao browser.
 
-<hr>
 
 <br>
 <h1>:computer: Tecnologias utilizadas</h1>
